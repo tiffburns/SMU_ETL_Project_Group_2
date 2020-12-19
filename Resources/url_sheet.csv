@@ -1,17 +1,33 @@
-Product Name,Walmart URL,Wilson URL,Dick's Sporting Goods,Academy Url
-Wilson Ultra Power XL 112 Tennis Racket,https://www.walmart.com/ip/Wilson-Ultra-Power-XL-112-Tennis-Racket/540322263,,,
-"Wilson Federer 25"" Junior Tennis Racket",https://www.walmart.com/ip/Wilson-Federer-25-Junior-Tennis-Racket/266290201,,,
-"Wilson Blade Feel Pro 105 Tennis Racket, 4 3/8""",https://www.walmart.com/ip/Wilson-Blade-Feel-Pro-105-Tennis-Racket-4-3-8/314724831,,,
-"Wilson Tour Slam Lite Tennis Racket, 4 3/8""",https://www.walmart.com/ip/Wilson-Tour-Slam-Lite-Tennis-Racket-4-3-8/624100887,,,
-Wilson Tennis Ball Pick Up Hopper Performance Play,https://www.walmart.com/ip/Wilson-Tennis-Ball-Pick-Up-Hopper-Performance-Play/35030429,,,
-Wilson Titanium All Court Tennis Balls,https://www.walmart.com/ip/Wilson-Titanium-All-Court-Tennis-Balls/11039588,,,
-Wilson Tennis Racket Shock Trap Vibration Dampener,https://www.walmart.com/ip/Wilson-Tennis-Racket-Shock-Trap-Vibration-Dampener/20704295,,,
-"Wilson Ultra Flare Tennis Ball, 3 Ball Can",https://www.walmart.com/ip/Wilson-Ultra-Flare-Tennis-Ball-3-Ball-Can/253975256,,,
-Wilson Sporting Goods Pro Over Grip,https://www.walmart.com/ip/Wilson-Sporting-Goods-Pro-Over-Grip/20703335,,,
-Wilson Championship Regular Duty Tennis Balls,https://www.walmart.com/ip/Wilson-Championship-Regular-Duty-Tennis-Balls/8812260,,,
-"Wilson US Open Orange Starter Tennis Balls, 3 Ball Pack",https://www.walmart.com/ip/Wilson-US-Open-Orange-Starter-Tennis-Balls-3-Ball-Pack/13032382,,,
-"Wilson Women's Racket Tote, Black",https://www.walmart.com/ip/Wilson-Women-s-Racket-Tote-Black/868676877,,,
-Wilson Triumph Tennis Racket,https://www.walmart.com/ip/Wilson-Triumph-Tennis-Racket/845553805,,,
-,,,,
-,,,,
-,,,,
+product_name,category_name,store_name,store_url,url
+Wilson Roger Federer Junior Tennis Racquet,Racquets,Walmart,https://www.walmart.com,https://www.walmart.com/ip/Wilson-Rodger-Federer-21-Junior-Tennis-Racquet/100240789
+Wilson Blade Team Tennis Racquet,Racquets,Walmart,https://www.walmart.com,https://www.walmart.com/ip/Wilson-WRT73861U3-Blade-Team-99-Tennis-Racket-Grip-Size-4-3-8/224888331
+Wilson Burn 100ULS Tennis Racquet,Racquets,Walmart,https://www.walmart.com,https://www.walmart.com/ip/Wilson-Burn-100ULS-Tennis-Racquet/214739253
+Wilson Championship Extra-Duty Tennis Balls,Balls,Walmart,https://www.walmart.com,https://www.walmart.com/ip/Wilson-006449-Wilson-Extra-Duty-Championship-Tennis-Ball-44-Pack-Of-3/127822706
+Wilson Team One Tennis Bag,Bags,Walmart,https://www.walmart.com,https://www.walmart.com/ip/Wilson-Team-Tennis-Bag-Series/792015746
+Wilson Overgrips 3-Pack White,Accessories,Walmart,https://www.walmart.com,https://www.walmart.com/ip/Wilson-Pro-Overgrip-White-3-Pack/114028544
+Wilson Overgrips 3-Pack Black,Accessories,Walmart,https://www.walmart.com,https://www.walmart.com/ip/wilson-profile-overgrip-3-pack-black/679133909
+Wilson Women's Rush Pro 2.5 Tennis Shoes,Shoes,Walmart,https://www.walmart.com,https://www.walmart.com/ip/Wilson-NEW-Pink-Shoes-Size-5-5M-Rush-Pro-2-0-Tennis-Athletic/447239236
+Wilson Roger Federer Junior Tennis Racquet,Racquets,Wilson,https://www.wilson.com,https://www.wilson.com/en-us/tennis/rackets/roger-federer-23-tennis-racket-158955
+Wilson Blade Team Tennis Racquet,Racquets,Wilson,https://www.wilson.com,https://www.wilson.com/en-us/tennis/rackets/blade-team-tennis-racket-156242
+Wilson Burn 100ULS Tennis Racquet,Racquets,Wilson,https://www.wilson.com,https://www.wilson.com/en-us/tennis/rackets/burn-100s-v4-tennis-racket
+Wilson Championship Extra-Duty Tennis Balls,Balls,Wilson,https://www.wilson.com,https://www.wilson.com/en-us/tennis/balls/value/championship-extra-duty-tennis-balls-4-ball-can
+Wilson Team One Tennis Bag,Bags,Wilson,https://www.wilson.com,https://www.wilson.com/en-us/tennis/bags/tour/small-super-tour-2-tennis-bag
+Wilson Overgrips 3-Pack White,Accessories,Wilson,https://www.wilson.com,https://www.wilson.com/en-us/tennis/grips/pro-overgrip-3-pack-159468
+Wilson Overgrips 3-Pack Black,Accessories,Wilson,https://www.wilson.com,https://www.wilson.com/en-us/tennis/grips/overgrips/pro-overgrip-sensation-3-pack
+Wilson Women's Rush Pro 2.5 Tennis Shoes,Shoes,Wilson,https://www.wilson.com,https://www.wilson.com/en-us/tennis/shoes/womens/women-s-rush-pro-3-0-159129
+Wilson Roger Federer Junior Tennis Racquet,Racquets,Dicks Sporting Goods,https://www.dickssportinggoods.com,https://www.dickssportinggoods.com/p/wilson-roger-federer-25-junior-tennis-racquet-19wiluwlsnrgrfdrrjrrb/19wiluwlsnrgrfdrrjrrb
+Wilson Blade Team Tennis Racquet,Racquets,Dicks Sporting Goods,https://www.dickssportinggoods.com,https://www.dickssportinggoods.com/p/wilson-blade-team-tennis-racquet-19wilubldtmxxxxxxprq/19wilubldtmxxxxxxprq
+Wilson Burn 100ULS Tennis Racquet,Racquets,Dicks Sporting Goods,https://www.dickssportinggoods.com,https://www.dickssportinggoods.com/p/wilson-burn-100ls-tennis-racquet-19wilubrn100lstnnprq/19wilubrn100lstnnprq
+Wilson Championship Extra-Duty Tennis Balls,Balls,Dicks Sporting Goods,https://www.dickssportinggoods.com,https://www.dickssportinggoods.com/p/wilson-championship-tennis-balls-3-ball-pack-16wiluchmpnshptnntnn/16wiluchmpnshptnntnn
+Wilson Team One Tennis Bag,Bags,Dicks Sporting Goods,https://www.dickssportinggoods.com,https://www.dickssportinggoods.com/p/wilson-team-one-tennis-bag-19wiluwlsntm1gryxtnn/19wiluwlsntm1gryxtnn
+Wilson Overgrips 3-Pack White,Accessories,Dicks Sporting Goods,https://www.dickssportinggoods.com,https://www.dickssportinggoods.com/p/wilson-pro-overgrip-tape-3-pack-16wiluprvrgrpxxxxtnn/16wiluprvrgrpxxxxtnn
+Wilson Overgrips 3-Pack Black,Accessories,Dicks Sporting Goods,https://www.dickssportinggoods.com,https://www.dickssportinggoods.com/p/wilson-pro-sensation-pickleball-overgrip-19wiluwlsnprvrgrppck/19wiluwlsnprvrgrppck?color=Black
+Wilson Women's Rush Pro 2.5 Tennis Shoes,Shoes,Dicks Sporting Goods,https://www.dickssportinggoods.com,https://www.dickssportinggoods.com/p/wilson-womens-rush-pro-2-5-tennis-shoes-17wilwrshpr25whtbtnn/17wilwrshpr25whtbtnn
+Wilson Roger Federer Junior Tennis Racquet,Racquets,Academy,https://www.academy.com,https://www.academy.com/shop/pdp/wilson-roger-federer-junior-tennis-racquet#repChildCatSku=122845378
+Wilson Blade Team Tennis Racquet,Racquets,Academy,https://www.academy.com,https://www.academy.com/shop/pdp/wilson-blade-team-tennis-racquet#repChildCatid=6779776
+Wilson Burn 100ULS Tennis Racquet,Racquets,Academy,https://www.academy.com,https://www.academy.com/shop/pdp/wilson-burn-100uls-tennis-racquet-118179392#repChildCatid=6759657
+Wilson Championship Extra-Duty Tennis Balls,Balls,Academy,https://www.academy.com,https://www.academy.com/shop/pdp/wilson-championship-extra-duty-tennis-balls-1-can-3-pack#repChildCatid=460610
+Wilson Team One Tennis Bag,Bags,Academy,https://www.academy.com,https://www.academy.com/shop/pdp/wilson-team-1-compartment-small-tennis-bag#repChildCatid=6779780
+Wilson Overgrips 3-Pack White,Accessories,Academy,https://www.academy.com,https://www.academy.com/shop/pdp/wilson-overgrips-3-pack#repChildCatSku=007724172
+Wilson Overgrips 3-Pack Black,Accessories,Academy,https://www.academy.com,https://www.academy.com/shop/pdp/wilson-profile-overgrip-3-pack#repChildCatid=1448186
+Wilson Women's Rush Pro 2.5 Tennis Shoes,Shoes,Academy,https://www.academy.com,https://www.academy.com/shop/pdp/wilson-womens-rush-pro-25-tennis-shoes-116129674#repChildCatid=5262044
