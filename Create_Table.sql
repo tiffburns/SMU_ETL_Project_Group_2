@@ -3,11 +3,10 @@ CREATE TABLE "product_price" (
     product_name varchar(100) NOT NULL,
     category_id int NOT NULL,
     store_id int NOT NULL,
-    sale_price float NOT NULL,
     list_price float NOT NULL,
     scraped_date timestamp NOT NULL,
     on_sale boolean NOT NULL,
-    url varchar(100) NOT NULL,
+    url varchar(500) NOT NULL,
     availability boolean NOT NULL,
 	last_updated timestamp default localtimestamp,
 	foreign key (category_id) REFERENCES "lk_category" ("id"), 
@@ -26,4 +25,3 @@ CREATE TABLE "lk_store" (
     store_url varchar(100) NOT NULL,
     last_updated timestamp default localtimestamp
 );
-
